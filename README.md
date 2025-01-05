@@ -25,6 +25,7 @@
 | configure                               | 配置               |
 | constant                                | 常量               |
 | cryptography                            | 密码学              |
+| CSS (Cascading Style Sheets)            | 层叠样式表            |
 | curly brace                             | 花括号              |
 | data set                                | 数据集              |
 | data structures                         | 数据结构             |
@@ -46,6 +47,7 @@
 | GUI (Graphical User Interface)          | 图形用户界面           |
 | hardcode                                | 硬编码              |
 | hash                                    | 哈希/散列            |
+| heap                                    | 堆                |
 | hexadecimal                             | 十六进制             |
 | index route                             | 索引路由             |
 | injection attack                        | 注入攻击             |
@@ -87,7 +89,7 @@
 | server                                  | 服务器              |
 | source                                  | 源代码              |
 | SQL (Structured Query Language)         | 结构化查询语言          |
-| stack                                   | 堆栈               |
+| stack                                   | 栈                |
 | store                                   | 存储               |
 | string                                  | 字符串              |
 | struct                                  | 结构体              |
