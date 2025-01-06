@@ -8,6 +8,7 @@
 | AI (artificial intelligence)            | 人工智能             |
 | algorithm                               | 算法               |
 | alphanumeric                            | 字母数字             |
+| angle bracket sign                      | 尖括号<>            |
 | API (Application Programming Interface) | 应用程序编程接口         |
 | application                             | 应用程序             |
 | array                                   | 数组               |
@@ -22,6 +23,7 @@
 | brute-force attack                      | 暴力破解             |
 | bubble sort                             | 冒泡排序             |
 | cipher                                  | 密码               |
+| commas                                  | 逗号               |
 | configure                               | 配置               |
 | constant                                | 常量               |
 | cryptography                            | 密码学              |
@@ -39,7 +41,9 @@
 | element                                 | 元素               |
 | end-to-end encryption                   | 端到端加密            |
 | entry point                             | 入口点              |
+| evaluate                                | 评估               |
 | exception                               | 异常               |
+| expression                              | 表达式              |
 | flat-file database                      | 平面文件数据库          |
 | foreign key                             | 外键               |
 | format                                  | 格式               |
@@ -67,11 +71,15 @@
 | notation                                | 符号               |
 | obfuscate                               | 混淆               |
 | OOP (Object-Oriented Programing)        | 面向对象编程           |
+| operand                                 | 操作数              |
+| operators                               | 运算符              |
 | paradigm                                | 范式               |
+| parentheses                             | 括号               |
 | parser                                  | 解析器              |
 | placeholder                             | 占位符              |
 | pointers                                | 指针               |
 | primary key                             | 主键               |
+| procedure                               | 过程               |
 | pseudocode                              | 伪代码              |
 | public-key cryptography                 | 公钥加密             |
 | queue                                   | 队列               |
