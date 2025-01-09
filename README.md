@@ -11,6 +11,7 @@
 | angle bracket sign                      | 尖括号<>            |
 | API (Application Programming Interface) | 应用程序编程接口         |
 | application                             | 应用程序             |
+| approximation                           | 近似值              |
 | argument value                          | 参数值              |
 | array                                   | 数组               |
 | assembly language                       | 汇编语言             |
@@ -27,8 +28,10 @@
 | Built-in function                       | 内置函数             |
 | call                                    | 调用               |
 | cipher                                  | 密码               |
+| clause                                  | 子句               |
 | colon                                   | 冒号               |
 | comma                                   | 逗号               |
+| compound statement                      | 复合语句             |
 | computational process                   | 计算过程             |
 | configure                               | 配置               |
 | constant                                | 常量               |
@@ -46,6 +49,7 @@
 | define                                  | 定义               |
 | dictionary/dict                         | 字典               |
 | disk                                    | 磁盘               |
+| division                                | 除法               |
 | dropdown                                | 下拉菜单             |
 | element                                 | 元素               |
 | end-to-end encryption                   | 端到端加密            |
@@ -71,6 +75,7 @@
 | inspector                               | 检查器              |
 | interactive                             | 交互式              |
 | interpreter                             | 解释器              |
+| iteration                               | 迭代               |
 | JSON (JavaScript Object Notation)       | JavaScript 对象表示法 |
 | key-value pairs                         | 键值对              |
 | linear search                           | 线性搜索             |
@@ -103,27 +108,32 @@
 | public-key cryptography                 | 公钥加密             |
 | Pure Functions                          | 纯函数              |
 | queue                                   | 队列               |
+| quotient                                | 商                |
 | recursion                               | 递归               |
 | redirect                                | 重定向              |
 | registration route                      | 注册路由             |
 | regular expression (regex)              | 正则表达式            |
 | reinforcement learning                  | 强化学习             |
 | relational database                     | 关系数据库            |
+| remainder                               | 余数               |
 | request                                 | 请求               |
 | resolution                              | 分辨率              |
 | scope                                   | 作用域              |
 | selection sort                          | 选择排序             |
 | semicolon                               | 分号               |
 | server                                  | 服务器              |
+| slash                                   | 斜杠               |
 | source                                  | 源代码              |
 | SQL (Structured Query Language)         | 结构化查询语言          |
 | squirrel                                | 贮存               |
 | stack                                   | 栈                |
+| statement                               | 语句               |
 | store                                   | 存储               |
 | string                                  | 字符串              |
 | struct                                  | 结构体              |
 | submit                                  | 提交               |
 | sugar                                   | 语法糖              |
+| suite                                   | 代码块              |
 | symmetric cryptography                  | 对称加密             |
 | syntax                                  | 语法               |
 | system prompt                           | 提示词工程            |
