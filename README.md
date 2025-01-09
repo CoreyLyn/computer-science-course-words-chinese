@@ -1,27 +1,22 @@
 # Chinese translations of common English words and phrases in computer science courses
 # 计算机公开课常见英文单词短语的中文翻译
 
-## A
-| 单词/短语                                   | 含义       |
-| --------------------------------------- | -------- |
-| abstract data types                     | 抽象数据类型   |
-| abstract function                       | 抽象方法     |
-| AI (artificial intelligence)            | 人工智能     |
-| algorithm                               | 算法       |
-| alphanumeric                            | 字母数字     |
-| angle bracket sign                      | 尖括号<>    |
-| API (Application Programming Interface) | 应用程序编程接口 |
-| application                             | 应用程序     |
-| argument value                          | 参数值      |
-| array                                   | 数组       |
-| assembly language                       | 汇编语言     |
-| assignment statement                    | 赋值语句     |
-| asymmetric cryptography                 | 非对称加密    |
-| authorization                           | 授权       |
-
-## B
 | 单词/短语                                   | 含义               |
 | --------------------------------------- | ---------------- |
+| abstract data types                     | 抽象数据类型           |
+| abstract function                       | 抽象方法             |
+| AI (artificial intelligence)            | 人工智能             |
+| algorithm                               | 算法               |
+| alphanumeric                            | 字母数字             |
+| angle bracket sign                      | 尖括号<>            |
+| API (Application Programming Interface) | 应用程序编程接口         |
+| application                             | 应用程序             |
+| argument value                          | 参数值              |
+| array                                   | 数组               |
+| assembly language                       | 汇编语言             |
+| assignment statement                    | 赋值语句             |
+| asymmetric cryptography                 | 非对称加密            |
+| authorization                           | 授权               |
 | best practice                           | 最佳实践             |
 | binary search                           | 二分查找             |
 | binary search tree                      | 二叉搜索树            |
@@ -30,14 +25,10 @@
 | brute-force attack                      | 暴力破解             |
 | bubble sort                             | 冒泡排序             |
 | Built-in function                       | 内置函数             |
-
-## C
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | call                                    | 调用               |
 | cipher                                  | 密码               |
 | colon                                   | 冒号               |
-| commas                                  | 逗号               |
+| comma                                   | 逗号               |
 | computational process                   | 计算过程             |
 | configure                               | 配置               |
 | constant                                | 常量               |
@@ -46,10 +37,6 @@
 | cryptography                            | 密码学              |
 | CSS (Cascading Style Sheets)            | 层叠样式表            |
 | curly brace                             | 花括号              |
-
-## D
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | data set                                | 数据集              |
 | data structures                         | 数据结构             |
 | database                                | 数据库              |
@@ -60,97 +47,50 @@
 | dictionary/dict                         | 字典               |
 | disk                                    | 磁盘               |
 | dropdown                                | 下拉菜单             |
-
-## E
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | element                                 | 元素               |
 | end-to-end encryption                   | 端到端加密            |
+| endow                                   | 赋予               |
 | entry point                             | 入口点              |
 | evaluate                                | 评估               |
 | exception                               | 异常               |
 | expression                              | 表达式              |
-
-## F
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | flat-file database                      | 平面文件数据库          |
 | foreign key                             | 外键               |
 | format                                  | 格式               |
 | frame                                   | 框架               |
-
-## G
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | generative aritificial intelligence     | 生成式人工智能          |
 | global                                  | 全局               |
 | GUI (Graphical User Interface)          | 图形用户界面           |
-
-## H
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | hardcode                                | 硬编码              |
 | hash                                    | 哈希/散列            |
 | heap                                    | 堆                |
 | hexadecimal                             | 十六进制             |
-
-## I
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | indent                                  | 缩进               |
 | index route                             | 索引路由             |
 | injection attack                        | 注入攻击             |
 | inspector                               | 检查器              |
 | interactive                             | 交互式              |
 | interpreter                             | 解释器              |
-
-## J
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | JSON (JavaScript Object Notation)       | JavaScript 对象表示法 |
-
-## K
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | key-value pairs                         | 键值对              |
-
-## L
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | linear search                           | 线性搜索             |
 | linked lists                            | 链表               |
 | LLM (large language models)             | 大语言模型            |
 | local                                   | 局部               |
 | loop                                    | 循环               |
-
-## M
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | memory                                  | 内存               |
 | memory leak                             | 内存泄漏             |
 | ML (machine learning)                   | 机器学习             |
 | MVC (Model View Controller)             | 模型视图控制器          |
-
-## N
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | named parameters                        | 命名函数             |
 | negative                                | 负                |
 | nesting                                 | 嵌套               |
 | Non-Pure Functions                      | 非纯函数             |
 | notation                                | 符号               |
-
-## O
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | obfuscate                               | 混淆               |
 | OOP (Object-Oriented Programing)        | 面向对象编程           |
 | operand                                 | 操作数              |
 | operators                               | 运算符              |
-
-## P
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | paradigm                                | 范式               |
 | parameter                               | 参数               |
 | parentheses                             | 括号               |
@@ -162,15 +102,7 @@
 | pseudocode                              | 伪代码              |
 | public-key cryptography                 | 公钥加密             |
 | Pure Functions                          | 纯函数              |
-
-## Q
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | queue                                   | 队列               |
-
-## R
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | recursion                               | 递归               |
 | redirect                                | 重定向              |
 | registration route                      | 注册路由             |
@@ -179,10 +111,6 @@
 | relational database                     | 关系数据库            |
 | request                                 | 请求               |
 | resolution                              | 分辨率              |
-
-## S
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | scope                                   | 作用域              |
 | selection sort                          | 选择排序             |
 | semicolon                               | 分号               |
@@ -199,10 +127,6 @@
 | symmetric cryptography                  | 对称加密             |
 | syntax                                  | 语法               |
 | system prompt                           | 提示词工程            |
-
-## T
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | template                                | 模板               |
 | temporary folder                        | 临时文件夹            |
 | the unique identifier                   | 唯一标识符            |
@@ -211,15 +135,7 @@
 | tries                                   | 字典树              |
 | truncation                              | 截断               |
 | type casting                            | 类型转换             |
-
-## U
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | User-defined function                   | 用户定义函数           |
-
-## V
-| 单词/短语                                   | 含义               |
-| --------------------------------------- | ---------------- |
 | validate                                | 验证               |
 | variable                                | 变量               |
 | verify                                  | 验证               |
