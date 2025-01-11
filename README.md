@@ -12,9 +12,11 @@
 | API (Application Programming Interface) | 应用程序编程接口         |
 | application                             | 应用程序             |
 | approximation                           | 近似值              |
+| approximation                           | 近似值              |
 | argument value                          | 参数值              |
 | array                                   | 数组               |
 | assembly language                       | 汇编语言             |
+| assert statement                        | 断言语句             |
 | assignment statement                    | 赋值语句             |
 | asymmetric cryptography                 | 非对称加密            |
 | authorization                           | 授权               |
@@ -61,14 +63,17 @@
 | flat-file database                      | 平面文件数据库          |
 | foreign key                             | 外键               |
 | format                                  | 格式               |
+| formula                                 | 公式               |
 | frame                                   | 框架               |
 | generative aritificial intelligence     | 生成式人工智能          |
 | global                                  | 全局               |
+| greater than                            | 大于               |
 | GUI (Graphical User Interface)          | 图形用户界面           |
 | hardcode                                | 硬编码              |
 | hash                                    | 哈希/散列            |
 | heap                                    | 堆                |
 | hexadecimal                             | 十六进制             |
+| imaginary number                        | 虚数               |
 | indent                                  | 缩进               |
 | index route                             | 索引路由             |
 | injection attack                        | 注入攻击             |
@@ -100,14 +105,17 @@
 | parameter                               | 参数               |
 | parentheses                             | 括号               |
 | parser                                  | 解析器              |
+| pattern                                 | 模式               |
 | placeholder                             | 占位符              |
 | pointers                                | 指针               |
+| positive number                         | 正数               |
 | primary key                             | 主键               |
 | procedure                               | 过程               |
 | pseudocode                              | 伪代码              |
 | public-key cryptography                 | 公钥加密             |
 | Pure Functions                          | 纯函数              |
 | queue                                   | 队列               |
+| quotes                                  | 引号               |
 | quotient                                | 商                |
 | recursion                               | 递归               |
 | redirect                                | 重定向              |
@@ -116,6 +124,7 @@
 | reinforcement learning                  | 强化学习             |
 | relational database                     | 关系数据库            |
 | remainder                               | 余数               |
+| repetiction                             | 重复               |
 | request                                 | 请求               |
 | resolution                              | 分辨率              |
 | scope                                   | 作用域              |
