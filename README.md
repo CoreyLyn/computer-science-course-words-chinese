@@ -49,6 +49,7 @@
 | decrypt                                 | 解密               |
 | deep learning                           | 深度学习             |
 | define                                  | 定义               |
+| demonstration                           | 示范               |
 | dictionary/dict                         | 字典               |
 | disk                                    | 磁盘               |
 | division                                | 除法               |
@@ -78,6 +79,7 @@
 | index route                             | 索引路由             |
 | injection attack                        | 注入攻击             |
 | inspector                               | 检查器              |
+| interact                                | 相互作用             |
 | interactive                             | 交互式              |
 | interpreter                             | 解释器              |
 | iteration                               | 迭代               |
