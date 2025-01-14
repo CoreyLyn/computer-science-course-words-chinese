@@ -9,6 +9,7 @@
 | algorithm                               | 算法               |
 | alphanumeric                            | 字母数字             |
 | angle bracket sign                      | 尖括号<>            |
+| annotate                                | 注释               |
 | API (Application Programming Interface) | 应用程序编程接口         |
 | application                             | 应用程序             |
 | approximation                           | 近似值              |
@@ -28,11 +29,13 @@
 | brute-force attack                      | 暴力破解             |
 | bubble sort                             | 冒泡排序             |
 | Built-in function                       | 内置函数             |
+| byproduct                               | 副作用              |
 | call                                    | 调用               |
 | cipher                                  | 密码               |
 | clause                                  | 子句               |
 | colon                                   | 冒号               |
 | comma                                   | 逗号               |
+| composition                             | 组合               |
 | compound statement                      | 复合语句             |
 | computational process                   | 计算过程             |
 | configure                               | 配置               |
@@ -49,6 +52,7 @@
 | decrypt                                 | 解密               |
 | deep learning                           | 深度学习             |
 | define                                  | 定义               |
+| demonstration                           | 示范               |
 | dictionary/dict                         | 字典               |
 | disk                                    | 磁盘               |
 | division                                | 除法               |
@@ -78,8 +82,11 @@
 | index route                             | 索引路由             |
 | injection attack                        | 注入攻击             |
 | inspector                               | 检查器              |
+| interact                                | 相互作用             |
 | interactive                             | 交互式              |
+| interpret                               | 解释               |
 | interpreter                             | 解释器              |
+| intrinsic                               | 固有的              |
 | iteration                               | 迭代               |
 | JSON (JavaScript Object Notation)       | JavaScript 对象表示法 |
 | key-value pairs                         | 键值对              |
