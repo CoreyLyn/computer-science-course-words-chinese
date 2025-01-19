@@ -15,6 +15,7 @@
 | approximation                           | 近似值              |
 | approximation                           | 近似值              |
 | argument value                          | 参数值              |
+| arithmetic                              | 算术               |
 | array                                   | 数组               |
 | assembly language                       | 汇编语言             |
 | assert statement                        | 断言语句             |
@@ -33,14 +34,17 @@
 | call                                    | 调用               |
 | cipher                                  | 密码               |
 | clause                                  | 子句               |
+| closing parenthesis                     | 右括号              |
 | colon                                   | 冒号               |
 | comma                                   | 逗号               |
 | composition                             | 组合               |
+| compound                                | 复合               |
 | compound statement                      | 复合语句             |
 | computational process                   | 计算过程             |
 | configure                               | 配置               |
 | constant                                | 常量               |
 | construct                               | 构成               |
+| convey                                  | 传达               |
 | correspondence                          | 通信               |
 | cryptography                            | 密码学              |
 | CSS (Cascading Style Sheets)            | 层叠样式表            |
@@ -53,11 +57,14 @@
 | deep learning                           | 深度学习             |
 | define                                  | 定义               |
 | demonstration                           | 示范               |
+| detect                                  | 检查               |
 | dictionary/dict                         | 字典               |
 | disk                                    | 磁盘               |
 | division                                | 除法               |
+| docstring                               | 文档               |
 | dropdown                                | 下拉菜单             |
 | element                                 | 元素               |
+| encounter                               | 遇到               |
 | end-to-end encryption                   | 端到端加密            |
 | endow                                   | 赋予               |
 | entry point                             | 入口点              |
@@ -70,6 +77,7 @@
 | formula                                 | 公式               |
 | frame                                   | 框架               |
 | generative aritificial intelligence     | 生成式人工智能          |
+| generic                                 | 通用的              |
 | global                                  | 全局               |
 | greater than                            | 大于               |
 | GUI (Graphical User Interface)          | 图形用户界面           |
@@ -77,6 +85,7 @@
 | hash                                    | 哈希/散列            |
 | heap                                    | 堆                |
 | hexadecimal                             | 十六进制             |
+| identically                             | 同样地              |
 | imaginary number                        | 虚数               |
 | indent                                  | 缩进               |
 | index route                             | 索引路由             |
@@ -84,6 +93,7 @@
 | inspector                               | 检查器              |
 | interact                                | 相互作用             |
 | interactive                             | 交互式              |
+| intermediate                            | 中间的              |
 | interpret                               | 解释               |
 | interpreter                             | 解释器              |
 | intrinsic                               | 固有的              |
@@ -106,6 +116,7 @@
 | notation                                | 符号               |
 | obfuscate                               | 混淆               |
 | OOP (Object-Oriented Programing)        | 面向对象编程           |
+| opening parenthesis                     | 左括号              |
 | operand                                 | 操作数              |
 | operators                               | 运算符              |
 | paradigm                                | 范式               |
@@ -138,6 +149,7 @@
 | selection sort                          | 选择排序             |
 | semicolon                               | 分号               |
 | server                                  | 服务器              |
+| simulate                                | 模拟               |
 | slash                                   | 斜杠               |
 | source                                  | 源代码              |
 | SQL (Structured Query Language)         | 结构化查询语言          |
@@ -148,6 +160,7 @@
 | string                                  | 字符串              |
 | struct                                  | 结构体              |
 | submit                                  | 提交               |
+| suffice                                 | 满足               |
 | sugar                                   | 语法糖              |
 | suite                                   | 代码块              |
 | symmetric cryptography                  | 对称加密             |
