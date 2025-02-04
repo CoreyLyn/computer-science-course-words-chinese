@@ -89,6 +89,7 @@
 | imaginary number                        | 虚数               |
 | indent                                  | 缩进               |
 | index route                             | 索引路由             |
+| initialize                              | 初始化              |
 | injection attack                        | 注入攻击             |
 | inspector                               | 检查器              |
 | interact                                | 相互作用             |
@@ -157,6 +158,7 @@
 | stack                                   | 栈                |
 | statement                               | 语句               |
 | store                                   | 存储               |
+| strategy                                | 策略               |
 | string                                  | 字符串              |
 | struct                                  | 结构体              |
 | submit                                  | 提交               |
@@ -174,6 +176,7 @@
 | tries                                   | 字典树              |
 | truncation                              | 截断               |
 | type casting                            | 类型转换             |
+| unambiguous                             | 明确的              |
 | User-defined function                   | 用户定义函数           |
 | validate                                | 验证               |
 | variable                                | 变量               |
